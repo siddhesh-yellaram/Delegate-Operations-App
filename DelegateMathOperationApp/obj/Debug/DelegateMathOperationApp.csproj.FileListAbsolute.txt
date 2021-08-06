@@ -1,0 +1,6 @@
+D:\test\.NET\DelegateMathOperationApp\bin\Debug\DelegateMathOperationApp.exe.config
+D:\test\.NET\DelegateMathOperationApp\bin\Debug\DelegateMathOperationApp.exe
+D:\test\.NET\DelegateMathOperationApp\bin\Debug\DelegateMathOperationApp.pdb
+D:\test\.NET\DelegateMathOperationApp\obj\Debug\DelegateMathOperationApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\DelegateMathOperationApp\obj\Debug\DelegateMathOperationApp.exe
+D:\test\.NET\DelegateMathOperationApp\obj\Debug\DelegateMathOperationApp.pdb
